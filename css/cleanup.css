@@ -22,9 +22,7 @@
 
 
 
-#wall div.parent div:nth-instance(2) > #tag-6  {
-  display: none;
-}
+
 
 body #wall div.parent div > #tag-7.slick {
   display: none;
