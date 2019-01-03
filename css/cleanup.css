@@ -7,7 +7,3 @@
 #wall :nth-child(2) {
   display: none;
 }
-
-#wall :nth-child(3) {
-  display: none;
-}
