@@ -22,7 +22,7 @@
 
 
 
-#wall div.parent div:last-child #tag-6  {
+#wall div.parent div:nth-instance(2) #tag-6  {
   display: none;
 }
 
