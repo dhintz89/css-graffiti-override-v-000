@@ -20,6 +20,6 @@
   display: none;
 }
 
-div#wall div.parent div:last-child:first-instance {
+div#wall div.parent div:last-child  {
   display:none;
 }
