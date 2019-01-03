@@ -13,7 +13,7 @@
 }
 
 #wall .parent #tag-4 {
-  display:none;
+  display: none;
 }
 
 #wall .parent+.parent {
@@ -21,5 +21,9 @@
 }
 
 div#wall div.parent div:last-child div#tag-6  {
-  display:none;
+  display: none;
+}
+
+body div#wall div.parent div > #tag-7.slick {
+  display: none;
 }
