@@ -22,7 +22,7 @@
 
 
 
-#wall div.parent div:second-instance > #tag-6  {
+#wall div.parent:second-instance  #tag-6  {
   display: none;
 }
 
