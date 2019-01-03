@@ -16,6 +16,6 @@
   display:none;
 }
 
-#wall .parent  {
+#wall .parent:nth-of-type(2)  {
   display: none;
 }
