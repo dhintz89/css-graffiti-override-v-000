@@ -24,6 +24,6 @@
   display: none;
 }
 
-body #wall div.parent div > #tag-7.slick {
+#wall div.parent:nth-last-child(1) div:first-child #tag-7.slick {
   display: none;
 }
