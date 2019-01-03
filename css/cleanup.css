@@ -4,4 +4,6 @@
   display: none;
 }
 
-#wall :nth-child(2)
+#wall :nth-child(2) {
+  display: none;
+}
